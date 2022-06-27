@@ -1,8 +1,8 @@
 {
-  "name-web":"GO IMAH",
-  "author":"BOGA IMAH",
+  "name-web":"Biografy",
+  "author":"Bio Grafy",
   "remove-comment-html":true,
-  "target":"https://hargadepo.com",
+  "target":"https://mocomi.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
